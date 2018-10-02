@@ -1,6 +1,6 @@
 #python3
 #Usage : In the terminal go to current directory and type "python3 crypto.py"
-x="IjgJUO{P_LOUV_AIRUS_GYQUTOLTD_SKRFB_TWNKCFT}"
+x="IjgJUO{P_LOUV_AIRUS_GYQUTOLTD_SKRFB_TWNKCFT}" #the sreing which was on the picture
 r="07271978"
 s=''
 w=0
