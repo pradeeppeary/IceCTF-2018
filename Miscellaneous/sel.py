@@ -1,5 +1,7 @@
 #python3
 #YOU HAVE TO FIRST INSTALL SELENIUM BEFORE RUNNING THIS PYTHON3 SCRIPT !!!!!
+#pip3 install selenium
+#please download webdriver for firefox also before using this script
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium import webdriver
