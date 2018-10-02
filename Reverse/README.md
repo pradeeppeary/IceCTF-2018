@@ -22,8 +22,7 @@ In this question we have to crack the password so first i checked the functions 
 0x00000670  main
 
 <br>
-I noticed that strcmp is used in program so i first searched in the strings of the file but
-there was nothing that validates the key.That means it is dynamically generating string and comparing it.
+We can see that strcmp is used in program so we checked for valid strings in the file but could'nt find any valid key.That means it is dynamically generating string and comparing it.
 <br>
 Then instead of using gdb i used <b>ltrace</b> and saw that in strcmp my string is compared to "aXat9r45UtyMjw4i5Wh8swVWmEg3vAbW" 
 <br>
